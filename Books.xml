@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mybooks>
+<book>
+  <name>XML and Web Technologies for Data Sciences with R</name>
+  <author>Deborah Nolan</author>
+  <publisher>Springer</publisher>
+  <isbn>978-1-4614-7899-7</isbn>
+  <subject>R</subject>
+</book>
+<book>
+  <name>XML and Web Technologies for Data Sciences with R</name>
+  <author>Duncan Temple Lang</author>
+  <publisher>Springer</publisher>
+  <isbn>978-1-4614-7899-7</isbn>
+  <subject>R</subject>
+</book>
+<book>
+  <name>Probability With Application and R</name>
+  <author>Robert P. Dobrow</author>
+  <publisher>Wiley</publisher>
+  <isbn>978-1-118-24125-7</isbn>
+  <subject>R</subject>
+</book>
+<book>
+  <name>Mathematical Statictics With Resampling and R</name>
+  <author>Laura Chihara</author>
+  <publisher>Wiley</publisher>
+  <isbn>978-1-118-02985-5</isbn>
+  <subject>R</subject>
+</book>
+<book>
+  <name>Mathematical Statictics With Resampling and R</name>
+  <author>Tim Hesterberg</author>
+  <publisher>Wiley</publisher>
+  <isbn>978-1-118-02985-5</isbn>
+  <subject>R</subject>
+</book>
+</mybooks>
